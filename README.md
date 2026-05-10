@@ -1,5 +1,5 @@
 # 💫 About Me:
---I’m currently on college<br>--I’m currently learning<br>--BCA 3rd year student | Python & Web Development enthusiast<br>Interested in building practical projects, automation, and learning new technologies.<br>Currently improving problem-solving and real-world development skills.<br>--Gamer by night, developer by day 🎮💻<br>
+--I’m currently on college<br>--I’m currently learning<br>--BCA  student | Python & Web Development enthusiast<br>Interested in building practical projects, automation, and learning new technologies.<br>Currently improving problem-solving and real-world development skills.<br>--Gamer by night, developer by day 🎮💻<br>
 
 
 ## 🌐 Socials:
